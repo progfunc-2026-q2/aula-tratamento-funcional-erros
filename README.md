@@ -1,4 +1,4 @@
-# Capítulo 9: Tratamento Funcional de Erros
+# Aula: Tratamento Funcional de Erros
 
 O objetivo deste projeto é disponibilizar exemplos práticos que demonstram a transição do tratamento de erros imperativo (baseado em exceções) para abordagens funcionais, puras e seguras usando tipos algébricos de dados (`Option`, `Either` e `Try`).
 
